@@ -1,0 +1,11 @@
+Patrick Shelly - 13415902
+
+Card Game Assignment
+
+When creating the Hand classes, I initialised type as an argument so each method could operate according
+to the rules of each game type hand. I also created a seperate method size which would calculate the size
+of the hand that is being tested.
+
+I apologise for not including any test classes, and also for the distinct lack of GitHub usage, I could not
+get it to work and as you can see, I was running out of time.
+
